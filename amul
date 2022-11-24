@@ -1,2 +1,5 @@
 S3
 VPC
+ELB
+ESB
+LAMDA
